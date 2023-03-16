@@ -1,2 +1,2 @@
 # python-pejot
-PJATK python
+PPY cw 1
